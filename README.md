@@ -20,4 +20,6 @@
 
 ### Kohderyhmä
 
+- facebook mutsit/ne ketkä tarvii päiväkotii :D
+
 Asiakkaan tarve
