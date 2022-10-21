@@ -38,6 +38,7 @@ Värit: #E26D5A, #EED2CC, #FFE9E9
 - Sivun sisältö. Mitä kaikkea sivulle tarvitaan? 
   - Esim. Blogi?, Uutiset?, Työpaikat?, Tapahtumat?, jne.
   - Mikä on sivun kohderyhmä?
+- Oli mainittu että mululla oli jo oma sähköposti, mikä sen on?
 
 
 Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5
