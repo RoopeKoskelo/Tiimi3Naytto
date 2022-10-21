@@ -30,7 +30,7 @@ Värit: #E26D5A, #EED2CC, #FFE9E9
 
 ### Kysymykset.
 
-- Mulun tarina ja sen taustaa. Vähän tietoa mulun taustasta ja sen tarinasta.
+- Graaffinen ohjeisto. Onko mitään väritoivomuksia sivuun?
 - Somen suunnittelu ja toteutus. Mitä tällä tarkoitetaan, onko mululla jo omat somet? Jos on mitä ne ovat. Jos ei, mitä someja halutaan ja millä sähköposteilla jne.
 - Sivun sisältö. Mitä kaikkea sivulle tarvitaan, esim. Blogi?, Uutiset?, Työpaikat?, Tapahtumat?, jne.
 
