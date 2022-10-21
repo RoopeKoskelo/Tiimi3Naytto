@@ -31,8 +31,13 @@ Värit: #E26D5A, #EED2CC, #FFE9E9
 ### Kysymykset.
 
 - Graaffinen ohjeisto. Onko mitään väritoivomuksia sivuun?
-- Somen suunnittelu ja toteutus. Mitä tällä tarkoitetaan, onko mululla jo omat somet? Jos on mitä ne ovat. Jos ei, mitä someja halutaan ja millä sähköposteilla jne.
-- Sivun sisältö. Mitä kaikkea sivulle tarvitaan, esim. Blogi?, Uutiset?, Työpaikat?, Tapahtumat?, jne.
+- Somen suunnittelu ja toteutus. 
+  - Mitä tällä tarkoitetaan, onko mululla jo omat somet?
+  - Jos on mitä ne ovat.
+  - Jos ei, mitä someja halutaan ja millä sähköposteilla jne.
+- Sivun sisältö. Mitä kaikkea sivulle tarvitaan? 
+  - Esim. Blogi?, Uutiset?, Työpaikat?, Tapahtumat?, jne.
+  - Mikä on sivun kohderyhmä?
 
 
 Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5
