@@ -24,3 +24,6 @@
 - facebook mutsit/ne ketkä tarvii päiväkotii :D
 
 Asiakkaan tarve
+
+
+Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5
