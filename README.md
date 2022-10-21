@@ -9,7 +9,7 @@
 
 -Mulun oma tarina/taustaa,
 
-- Miten kaikki alkoi 
+-Miten kaikki alkoi 
 
 -Kuvagalleria
 
@@ -17,7 +17,7 @@
 -Sivuston otsikoksi Mulufikir.org, jotain.com tai sitten joku muu maksuton
 ### Sivusto tehdään 
 -
--
+-Bluehostille servu??
 ### Tarvittavat tiedot asiakkaalta
 -logo
 -
