@@ -1,6 +1,7 @@
 # Tiimi3Naytto
 ### Asiakkaan toiveet
 
+- #### ENKUKSI!!!!!!!
 - Ensimmäinen sivu lyhyeksi, ytimekkääksi ja herätteleväksi
 - Graafinen ohjeistus
 - Somen suunnittelu sekä toteutus
