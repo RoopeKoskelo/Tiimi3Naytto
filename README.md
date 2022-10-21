@@ -25,5 +25,8 @@
 
 Asiakkaan tarve
 
+### Graafinen ohjeisto
+Värit: #E26D5A, #EED2CC, #FFE9E9  
+
 
 Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5
