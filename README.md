@@ -41,5 +41,5 @@ Värit: #E26D5A, #EED2CC, #FFE9E9
 - Oli mainittu että mululla oli jo oma sähköposti, mikä sen on?
 
 
-Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5
+Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5  
 Graafinen: https://www.figma.com/file/t91pQFYIPIfJV5Lwabfd0J/Untitled?node-id=0%3A1
