@@ -13,7 +13,7 @@
 
 ### Sivusto tehdään 
 
-- Bluehostille servu??
+- Bluehostille tai hostingille servu??
 
 ### Tarvittavat tiedot asiakkaalta
 
