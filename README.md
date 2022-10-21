@@ -19,11 +19,11 @@
 
 ### Sivusto tehdään 
 
--Bluehostille servu??
+- Bluehostille servu??
 
 ### Tarvittavat tiedot asiakkaalta
 
--logo
+- logo
 
 ### Kohderyhmä
 
