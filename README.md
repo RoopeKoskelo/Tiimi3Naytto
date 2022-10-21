@@ -1,28 +1,30 @@
 # Tiimi3Naytto
 ### Asiakkaan toiveet
 
--Ensimmäinen sivu lyhyeksi, ytimekkääksi ja herätteleväksi
+- Ensimmäinen sivu lyhyeksi, ytimekkääksi ja herätteleväksi
 
--Graafinen ohjeistus
+- Graafinen ohjeistus
 
--Somen suunnittelu sekä toteutus
+- Somen suunnittelu sekä toteutus
 
--Mulun oma tarina/taustaa,
+- Mulun oma tarina/taustaa,
 
--Miten kaikki alkoi 
+- Miten kaikki alkoi 
 
--Kuvagalleria
+- Kuvagalleria
 
--Jokaisen sivun alareunaan yhteystiedot, yhteydenottolomake ja lahjoitukset, johon 	tilinumerot ym.
--Sivuston otsikoksi Mulufikir.org, jotain.com tai sitten joku muu maksuton
+- Jokaisen sivun alareunaan yhteystiedot, yhteydenottolomake ja lahjoitukset, johon 	tilinumerot ym.
+
+- Sivuston otsikoksi Mulufikir.org, jotain.com tai sitten joku muu maksuton
+
 ### Sivusto tehdään 
--
+
 -Bluehostille servu??
+
 ### Tarvittavat tiedot asiakkaalta
+
 -logo
--
+
 ### Kohderyhmä
--
--
+
 Asiakkaan tarve
--  
