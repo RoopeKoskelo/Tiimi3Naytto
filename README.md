@@ -15,13 +15,13 @@
 
 -Jokaisen sivun alareunaan yhteystiedot, yhteydenottolomake ja lahjoitukset, johon 	tilinumerot ym.
 -Sivuston otsikoksi Mulufikir.org, jotain.com tai sitten joku muu maksuton
-Sivusto tehdään 
+### Sivusto tehdään 
 -
 -
-Tarvittavat tiedot asiakkaalta
+### Tarvittavat tiedot asiakkaalta
 -logo
 -
-Kohderyhmä
+### Kohderyhmä
 -
 -
 Asiakkaan tarve
