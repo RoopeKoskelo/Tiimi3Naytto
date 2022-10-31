@@ -7,7 +7,7 @@
 
 --------------------------------------------------------
 
-### Asiakkaan toiveet:
+### Asiakkaan toiveet
 
 - Koko sivu ENGLANNIKSI. Sivu halutaan myös käännettäväksi Amharaksi.
 - Graafinen ohjeisto, raikas selkeä ja helppona luettavissa.
@@ -19,7 +19,7 @@
 - Logon korjaus, "MULUFIKER" -> "MULUFIKIR". Värinvahvistus.
 - Värien ja fonttien käyttö.
 - SLOGAN: "Sharing is Caring!"
-- Yhteysosoite: mulufikircharity1212@gmail.com
+- Yhteysosoite: "mulufikircharity1212@gmail.com"
 - Sivun palkkeja mm. "Mulu's story", "Faces behind stories", "How it all started (Kore-Sisters tarinaa)", Contacts, Day care Centre, Donations jne.
 
 --------------------------------------------------------
