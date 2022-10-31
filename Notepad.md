@@ -1,4 +1,5 @@
-###Esittely sivu
+
+### Esittely sivu
 
 - Savuttavuus
 - Punainen logo
@@ -9,7 +10,7 @@
 - Navigaatioon: Mulun tarina, face behind stories, ...
 - Vapaaehtoistyönä
 
-###Mitä someja kaivataan, halutaanko blogeja?
+### Mitä someja kaivataan, halutaanko blogeja?
 
 - Vaatimuusmäärittelyä:
     4 kpl asiakas ja tahot lukee määrittelyt läpi.
