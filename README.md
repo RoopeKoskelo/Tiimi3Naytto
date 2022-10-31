@@ -17,7 +17,7 @@
 
 ### Kohderyhmä
 
-- facebook mutsit/ne ketkä tarvii päiväkotii :D
+- Mulun lähipiiri, muut ulkomaalaiset?
 
 ### Graafinen ohjeisto
 Värit: #E26D5A, #EED2CC, #FFE9E9  
