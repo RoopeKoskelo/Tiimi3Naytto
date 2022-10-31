@@ -13,7 +13,7 @@
 
 ### Sivusto tehdään 
 
-- Bluehostille tai hostingille servu??
+- Bluehostille tai hostingerille servu??
 
 ### Kohderyhmä
 
