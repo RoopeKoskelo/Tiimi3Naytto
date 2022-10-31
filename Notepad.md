@@ -14,6 +14,4 @@ Mitä someja kaivataan, halutaanko blogeja?
 - Vaatimuusmäärittelyä:
     4 kpl asiakas ja tahot lukee määrittelyt läpi.
 - Graafista suunnitelmaa:
-
-- Mikä on paikka missä sitä kannattaa hostata
-- 
+- Mikä on paikka missä sitä kannattaa hostata.
