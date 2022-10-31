@@ -12,7 +12,7 @@
 - Kuvagalleria.
 - Sivujen alareunaan yhteystiedot, yhteydenottolomake ja lahjotukset.
 - Sivun otsikoksi mulufikir.org
-- Logon korjaus, "MULUFIKER" -> "MULUFIKIR". Värinvahvistus.
+- Logon korjaus, <i>"MULUFIKER"</i> -> <b>"MULUFIKIR"</b>. Värinvahvistus.
 - Värien ja fonttien käyttö.
 - SLOGAN: "Sharing is Caring!"
 - Yhteysosoite: "mulufikircharity1212@gmail.com"
