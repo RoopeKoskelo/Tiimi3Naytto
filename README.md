@@ -15,7 +15,7 @@
 - Logon korjaus, <i>"MULUFIKER"</i> -> <b>"MULUFIKIR"</b>. Värinvahvistus.
 - Värien ja fonttien käyttö.
 - SLOGAN: "Sharing is Caring!"
-- Yhteysosoite: "http://<span></span>mulufikircharity1212@gmail.com"
+- Yhteysosoite: "http://<span>mulufikircharity1212@gmail.com</span>"
 - Sivun palkkeja mm. "Mulu's story", "Faces behind stories", "How it all started (Kore-Sisters tarinaa)", Contacts, Day care Centre, Donations jne.
 
 --------------------------------------------------------
