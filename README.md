@@ -1,9 +1,5 @@
 
-
-
-
-
-#Mulufikir Projekti
+# Mulufikir Projekti
 
 --------------------------------------------------------
 
