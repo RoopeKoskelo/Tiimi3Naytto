@@ -15,15 +15,9 @@
 
 - Bluehostille tai hostingille servu??
 
-### Tarvittavat tiedot asiakkaalta
-
-- logo
-
 ### Kohderyhmä
 
 - facebook mutsit/ne ketkä tarvii päiväkotii :D
-
-Asiakkaan tarve
 
 ### Graafinen ohjeisto
 Värit: #E26D5A, #EED2CC, #FFE9E9  
