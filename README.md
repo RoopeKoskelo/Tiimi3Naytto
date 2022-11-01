@@ -20,18 +20,28 @@
 
 --------------------------------------------------------
 
+### Serveri
+
+- Vaihtoehtoja esim. Hostinger, Bluehost, HostGator
+
+--------------------------------------------------------
+
 ### Omat kommentit
 
 - Bluehostille tai Hostingerille serveri?
-- Värit: #E26D5A, #EED2CC, #FFE9E9  
+- Värit: #292f36, #f7fff7, #fe6099, #19c89c
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
+Graafinen ohjeisto
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinen.png" width="50%" height="50%">
 
 --------------------------------------------------------
 
-### Linkit
+### Lähteet
 
-- Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5  
 - Graafinen: https://www.figma.com/file/t91pQFYIPIfJV5Lwabfd0J/Untitled?node-id=0%3A1  
-- Liity! https://www.figma.com/team_invite/redeem/K1uPcIqAivSn5mK50kmkQF  
 
 --------------------------------------------------------
+### Logo  
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Mulifkir.png?raw=true" width="200" height="200">
+
 
