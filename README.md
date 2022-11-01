@@ -40,6 +40,6 @@
 
 --------------------------------------------------------
 ### Logo  
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Mulufikir.png?raw=true" width="200" height="200">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Mulifkir.png?raw=true" width="200" height="200">
 
 
