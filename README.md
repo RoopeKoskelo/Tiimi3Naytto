@@ -31,7 +31,7 @@
 - Bluehostille tai Hostingerille serveri?
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
-- Graafinen ohjeisto
+Graafinen ohjeisto
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinen.png" width="50%" height="50%">
 
 --------------------------------------------------------
