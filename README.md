@@ -38,7 +38,7 @@ Graafinen ohjeisto
 
 ### Lähteet
 
-- Graafinen: https://www.figma.com/file/t91pQFYIPIfJV5Lwabfd0J/Untitled?node-id=0%3A1  
+- Graafinen ohjeisto ja rautalankamalli: https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817
 
 --------------------------------------------------------
 ### Logo  
