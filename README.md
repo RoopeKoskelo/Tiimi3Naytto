@@ -20,6 +20,12 @@
 
 --------------------------------------------------------
 
+### Serveri
+
+- Vaihtoehtoja esim. Hostinger, Bluehost, HostGator
+
+--------------------------------------------------------
+
 ### Omat kommentit
 
 - Bluehostille tai Hostingerille serveri?
@@ -30,7 +36,6 @@
 
 ### Lähteet
 
-- Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5  
 - Graafinen: https://www.figma.com/file/t91pQFYIPIfJV5Lwabfd0J/Untitled?node-id=0%3A1  
 
 --------------------------------------------------------
