@@ -25,7 +25,7 @@
 - Bluehostille tai Hostingerille serveri?
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
 
-![palette](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true) with <img src="https://your-image-url.type" width="100" height="100">
+![palette](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true) with <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="100" height="100">
 
 --------------------------------------------------------
 
