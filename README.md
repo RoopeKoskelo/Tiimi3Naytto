@@ -24,15 +24,14 @@
 
 - Bluehostille tai Hostingerille serveri?
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
-![palette](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true)
+![palette](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true =250x250)
 
 --------------------------------------------------------
 
-### Linkit
+### Lähteet
 
 - Trello: https://trello.com/invite/projekti29/ATTI1a7fbaaef5c639a40335cc09586be72417DB2CD5  
 - Graafinen: https://www.figma.com/file/t91pQFYIPIfJV5Lwabfd0J/Untitled?node-id=0%3A1  
-- Liity! https://www.figma.com/team_invite/redeem/K1uPcIqAivSn5mK50kmkQF  
 
 --------------------------------------------------------
 
