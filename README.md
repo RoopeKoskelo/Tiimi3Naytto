@@ -39,7 +39,7 @@
 - Graafinen: https://www.figma.com/file/t91pQFYIPIfJV5Lwabfd0J/Untitled?node-id=0%3A1  
 
 --------------------------------------------------------
-Logo
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Mulifkir.png?raw=true" width="200" height="200">
+### Logo  
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Mulufikir.png?raw=true" width="200" height="200">
 
 
