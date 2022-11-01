@@ -23,7 +23,8 @@
 ### Omat kommentit
 
 - Bluehostille tai Hostingerille serveri?
-- Värit: #E26D5A, #EED2CC, #FFE9E9  
+- Värit: #292f36, #f7fff7, #fe6099, #19c89c
+![palette](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true)
 
 --------------------------------------------------------
 
