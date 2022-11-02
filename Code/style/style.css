@@ -8,6 +8,7 @@
 
 body {
     background-color: #F7FFF7;
+    min-height: 1200px;
 }
 
 /* ----- Images ----- */
@@ -15,8 +16,8 @@ body {
 .Logo_Image {
     margin: 5px;
     padding: 5px;
-    width: 75px;
-    height: 75px;
+    width: 65px;
+    height: 65px;
     /* background-color: #F7FFF7; */
 }
 
@@ -24,8 +25,8 @@ body {
 
 .sloganTop {
     display: inline-block;
-    color: #31383f;
-    font-size: 38px;
+    color: #FF0525;
+    font-size: 30px;
     font-family: 'Khand', sans-serif;
 
     position: absolute;
@@ -34,29 +35,136 @@ body {
     transform: translateY(-50%);
 }
 
+/* ----- Slider ----- */
+
+.imageSlider {
+    width: 100%;
+    height: 350px;
+    position: relative;
+    margin: auto;
+    border: 0px solid;
+    background-color:#fbfffb;
+}
+
+.imageSliderDots {
+    cursor: pointer;
+    width: 100%;
+    height: 5%;
+    position: absolute;
+    left: 47.5%;
+    top: 92.5%;
+}
+
+.imageSliderImage {
+    cursor: pointer;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    vertical-align: middle;
+}
+
+.imageSlideStyle {
+    display: none;
+}
+
+.prevArrow, .nextArrow {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -32px;
+    color:#31383f;
+    font-family: 'Khand', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    transition: 0.75s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.nextArrow {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+.imageSliderDot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 5px;
+    background-color: #7b8a98;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.75 ease;
+}
+
+.imageSliderText {
+    cursor: pointer;
+    width: 100%;
+    height: 5%;
+    position: absolute;
+    text-align: center;
+    left: .75%;
+    top: 80%;
+    color: #31383f;
+    font-size: 24px;
+    font-family: 'Khand', sans-serif;
+}
+
+.active, .imageSliderDot:hover {
+    background-color: #31383f;
+}
+
+.imageSlideFade {
+    animation-name: imageSlideFade;
+    animation-duration: 1.5s;
+}
+
+@keyframes imageSlideFade {
+    from {opacity: 0} 
+    to {opacity: 1}
+}
+
 /* ----- Divs ----- */
 
 .navBar {
     display: inline-block;
     position: absolute;
     left: 45%;
-    width: 50%;
+    cursor: pointer;
+    width: 45%;
     height: 80%;
-    margin: 10px;
+    margin: 20px;
     /* background-color: #dadada; */
 }
 
 .navButton {
+    cursor: pointer;
     color: #FE6099;
-    font-size: 28px;
+    font-size: 2vw;
     font-family: 'Khand', sans-serif;
     font-weight: lighter;
     background: none;
     border: 0px solid;
-    float: right;
+    text-align: center;
     padding: 0 7.5%;
-    width: 15vw;
-    height: 100%;
+    width: 14vw;
+    height: 65%;
+}
+
+.magnifyingClass {
+    cursor: pointer;
+    position: absolute;
+    display: inline-block;
+    margin: 25px;
+    left: 92%;
+    height: 2vw;
+    width: 2vw;
+    background: none;
+    border: 0px solid;
+    background-repeat: no-repeat;
+    background-image: url(../../Dev/Images/magnifying-glass-svgrepo-com.svg)
 }
 
 .donationsButton {
@@ -64,10 +172,12 @@ body {
     color: #FFFFFF;
     background-color: #19C89C;
     border-radius: 8px;
+    left: 3vw;
+    width: 15vw;
 }
 
 .logoBar {
-    height: 100px;
+    height: 85px;
     width: 100%;
     position: relative;
     background-color: #FFFFFF;
@@ -75,10 +185,10 @@ body {
 
 .logoTopBar {
     background-color: #FE6099;
-    height: 25px;
+    height: 24px;
 }
 
 .logoBottomBar {
-    background-color: #292F36;
-    height: 1px;
+    background-color: #FE6099;
+    height: 2px;
 }
