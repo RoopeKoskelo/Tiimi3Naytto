@@ -3,7 +3,7 @@
 
 --------------------------------------------------------
 
-### Asiakkaan toiveet 🙏
+### 🙏 Asiakkaan toiveet 
 
 - Koko sivu Englanniksi. Sivu halutaan myös käännettäväksi Amharaksi.
 - Graafinen ohjeisto raikas, selkeä ja helppona luettavissa.
@@ -20,7 +20,7 @@
 
 --------------------------------------------------------
 
-### Suunnittelu ideat
+### 💡 Suunnittelu ideat  
 
 - Pinkki alkuperäisestä Mulufikir - logosta.
 - Vihreä aksenttiväri täydentää pinkkiä modernilla ja raikaalla tavalla.
@@ -30,18 +30,18 @@
 
 --------------------------------------------------------
 
-### Kysymykset asiakkaalle
+### ❔ Kysymykset asiakkaalle
 - Löytyykö lisenssi logo fontille kaupalliseen käyttöön? Jos ei löydy niin ehdotuksena voidaan vaihtaa logon tekstiä ja pitää sydän samana.
 
 --------------------------------------------------------
 
-### Serveri
+### 🔧 Serveri
 
 - Vaihtoehtoja esim. Hostinger, Bluehost, HostGator
 
 --------------------------------------------------------
 
-### Lähteet
+### ⚡ Lähteet
 
 - Graafinen ohjeisto ja rautalankamalli: [Figma](https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817)
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
