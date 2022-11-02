@@ -1,7 +1,7 @@
 
 # Graafinen
 
-![Graafinen](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Graafinen3.png?raw=true)
+![Graafinen](https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Graafinen4.png?raw=true)
 ## Värit 
 --------------------------------------------------------------------------------------------------------
 
