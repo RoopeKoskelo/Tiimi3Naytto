@@ -8,7 +8,7 @@
 
 body {
     background-color: #F7FFF7;
-    min-height: 1200px;
+    min-height: 1000px;
 }
 
 /* ----- Images ----- */
@@ -16,7 +16,7 @@ body {
 .Logo_Image {
     margin: 5px;
     padding: 5px;
-    width: 65px;
+    width: 70px;
     height: 65px;
     /* background-color: #F7FFF7; */
 }
@@ -39,11 +39,12 @@ body {
 
 .imageSlider {
     width: 100%;
-    height: 350px;
+    height: 475px;
     position: relative;
     margin: auto;
     border: 0px solid;
     background-color:#fbfffb;
+    overflow: hidden;
 }
 
 .imageSliderDots {
@@ -56,11 +57,12 @@ body {
 }
 
 .imageSliderImage {
-    cursor: pointer;
-    width: 100%;
-    height: 100%;
-    position: absolute;
     vertical-align: middle;
+    cursor: pointer;
+    position: absolute;
+    width: 100%;
+    max-height: 200%;
+    top: -30%;
 }
 
 .imageSlideStyle {
@@ -74,13 +76,14 @@ body {
     width: auto;
     padding: 16px;
     margin-top: -32px;
-    color:#31383f;
+    color:#FE6099;
     font-family: 'Khand', sans-serif;
     font-weight: bold;
     font-size: 30px;
     transition: 0.75s ease;
     border-radius: 0 3px 3px 0;
     user-select: none;
+    background-color: rgba(49, 56, 63, .25);
 }
 
 .nextArrow {
@@ -88,32 +91,47 @@ body {
     border-radius: 3px 0 0 3px;
 }
 
+.prevArrow:hover, .nextArrow:hover {
+    background-color: rgba(49, 56, 63, .5);
+    color: rgb(255, 255, 255);
+}
+
 .imageSliderDot {
     cursor: pointer;
     height: 15px;
     width: 15px;
     margin: 0 5px;
-    background-color: #7b8a98;
+    background-color: rgba(123, 138, 152, .5);
     border-radius: 50%;
     display: inline-block;
+    border: 2px solid;
+    border-color:rgba(255, 255, 255, .5);
     transition: background-color 0.75 ease;
 }
 
-.imageSliderText {
+.imageSliderTextBox {
     cursor: pointer;
-    width: 100%;
-    height: 5%;
     position: absolute;
-    text-align: center;
-    left: .75%;
-    top: 80%;
-    color: #31383f;
-    font-size: 24px;
+    width: 25%;
+    height: 5%;
+    left: 65%;
+    top: 20%;
+    text-align: justify;
+}
+
+.imageSliderText {
+    word-wrap: break-word;
+    cursor: pointer;
+    position: relative;
+    text-align: justify;
+    color: #F7FFF7;
+    font-size: 40px;
     font-family: 'Khand', sans-serif;
+    text-shadow: 0px 5px 2.5px rgb(0, 0, 0);
 }
 
 .active, .imageSliderDot:hover {
-    background-color: #31383f;
+    background-color: rgba(49, 56, 63, .75);
 }
 
 .imageSlideFade {
@@ -174,6 +192,8 @@ body {
     border-radius: 8px;
     left: 3vw;
     width: 15vw;
+    margin-left: .5vw;
+    box-shadow: 0px 5px 2.5px rgb(173, 173, 173);
 }
 
 .logoBar {
@@ -182,6 +202,48 @@ body {
     position: relative;
     background-color: #FFFFFF;
 } /* FE6099 */
+
+.flag {
+    display: inline-block;
+    position: absolute;
+    margin: 2.5px;
+    margin: 0;
+    padding: 0 0px;
+    width: 25px;
+    height: 15px;
+    top: 2px;
+    border: 1.75px solid;
+    border-color:rgba(0, 0, 0, .5)
+}
+
+.greenInfoBox {
+    width: 100%;
+    height: 300px;
+    display: block;
+    position: relative;
+    box-shadow: 0px 5px 7.5px rgba(0, 0, 0, .5);
+    background-color:#19C89C;
+}
+
+.greenInfoText {
+    margin: 10%;
+    padding: 5%;
+    align-content: center;
+    color:rgb(255, 255, 255);
+    font-family: 'Khand', sans-serif;
+    font-weight: lighter;
+    font-size: 23px;
+    margin-top: 0;
+}
+
+.footerBar {
+    margin-top: 50px;
+    width: 100%;
+    height: 120px;
+    display: block;
+    position: relative;
+    background-color:#FE6099;
+}
 
 .logoTopBar {
     background-color: #FE6099;
