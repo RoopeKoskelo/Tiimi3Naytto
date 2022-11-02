@@ -25,7 +25,7 @@
 - Pinkki alkuperäisestä Mulufikir - logosta.
 - Vihreä aksenttiväri täydentää pinkkiä modernilla ja raikaalla tavalla.
 - Houkutteleva ja helppokäyttöinen sivusto, missä korostuu lempeys ja ystävällisyys.
-- Palvelin suosituksemme on Hostinger hinnanperusteella ([hintavertailu](https://github.com/RoopeKoskelo/Tiimi3Naytto/raw/main/Dev/Hostivaihtoehdot.xlsx))
+- Palvelin suosituksemme on Hostinger hinnanperusteella ([palvelin hintavertailu](https://github.com/RoopeKoskelo/Tiimi3Naytto/raw/main/Dev/Hostivaihtoehdot.xlsx))
 - Khand fontti sisältö tekstinä (tyylikäs ja helppo luettava)
 
 --------------------------------------------------------
