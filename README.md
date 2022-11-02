@@ -28,22 +28,29 @@
 
 --------------------------------------------------------
 
-### Omat kommentit
+### Lähteet
 
-- Bluehostille tai Hostingerille serveri?
+- Graafinen ohjeisto ja rautalankamalli: [Figma](https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817)
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
-Graafinen ohjeisto
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinen.png" width="50%" height="50%">
 
 --------------------------------------------------------
-
-### Lähteet
-
-- Graafinen ohjeisto ja rautalankamalli: https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817
+### Logo  
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="200">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Teksti.png?raw=true" width="200" height="200">
 
 --------------------------------------------------------
-### Logo  
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Mulifkir.png?raw=true" width="200" height="200">
 
+### Suunnittelu ideat
 
+- Pinkki alkuperäisestä Mulufikir - logosta
+- Vihreä aksenttiväri täydentää pinkkiä modernilla ja raikaalla tavalla
+- Houkutteleva ja helppokäyttöinen sivusto, missä korostuu lempeys ja ystävällisyys
+- Palvelin suosituksemme on Hostinger hinnanperusteella ([hintavertailu](https://github.com/RoopeKoskelo/Tiimi3Naytto/raw/main/Dev/Hostivaihtoehdot.xlsx))
+- Khand fontti sisältö tekstinä (tyylikäs ja helppo luettava)
+
+--------------------------------------------------------
+
+### Kysymykset asiakkaalle
+- Löytyykö lisenssi logo fontille kaupalliseen käyttöön? Jos ei löydy niin ehdotuksena voidaan vaihtaa logon tekstiä ja pitää sydän samana
