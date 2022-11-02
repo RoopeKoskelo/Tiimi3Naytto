@@ -1,9 +1,9 @@
 
-# 😂🙌😜Mulufikir Projekti
+# Mulufikir Projekti
 
 --------------------------------------------------------
 
-### Asiakkaan toiveet
+### Asiakkaan toiveet 🙏
 
 - Koko sivu Englanniksi. Sivu halutaan myös käännettäväksi Amharaksi.
 - Graafinen ohjeisto raikas, selkeä ja helppona luettavissa.
