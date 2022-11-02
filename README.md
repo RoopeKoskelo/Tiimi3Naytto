@@ -47,6 +47,6 @@
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinen.png" width="50%" height="50%">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="200">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Teksti.png?raw=true" width="200" height="relative">
 
