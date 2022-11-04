@@ -46,13 +46,16 @@
 - Graafinen ohjeisto ja rautalankamalli: [Figma](https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817)
 - Värit: #292f36, #f7fff7, #fe6099, #19c89c
 
-### Väri malli:
+### Väri malli
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
+
+### Graafinen malli
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinen.png" width="50%" height="50%">
+
+### Muokattu logo
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Teksti.png?raw=true" width="200" height="relative">
 
 ### Esimerkki sivustot
-
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Home.png?raw=true" width="500" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Mulu's%20story.png?raw=true" width="500" height="relative">
