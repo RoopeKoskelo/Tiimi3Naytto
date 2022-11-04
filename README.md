@@ -50,7 +50,7 @@
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
 
 ### Graafinen malli
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinenohelmisto.png" width="50%" height="50%">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Graafinenohjelma.png" width="50%" height="50%">
 
 ### Muokattu logo
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="relative">
