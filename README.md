@@ -3,6 +3,16 @@
 
 --------------------------------------------------------
 
+### 💼 Jäsenet ja roolit
+
+- Arkkitehti, scrum-Master, pojari: Erika
+- Käyttöliittymäsuunnittelija: Joel
+- Sisällöntuottaja, some brändäys, markkinointi: Yusuf
+- Palvelin, ympäristöt: Roope
+- Koodaaja: Jarco
+
+--------------------------------------------------------
+
 ### 🙏 Asiakkaan toiveet 
 
 - Koko sivu Englanniksi. Sivu halutaan myös käännettäväksi Amharaksi.
