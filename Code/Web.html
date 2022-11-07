@@ -3,6 +3,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="style/style.css">
+        <link rel="icon" type="image/x-icon" href="../Dev/Images/Logo_Kuva_2.png">
         <title>Mulufikir</title>
     </head>
     
@@ -22,9 +23,9 @@
             <img src="../Dev/Images/Logo_Kuva_2.png" alt="Logo_Kuva" class="Logo_Image">
             <div class="sloganTop"><p>Sharing is Caring!</p></div>
             <div class="navBar">
-                <button class="navButton">Our Story</button>
+                <button class="navButton">Our Story ⇣</button>
                 <button class="navButton">About Us</button>
-                <button class="navButton donationsButton">Donations</button>
+                <a href="../Code/Donate.html" class="navButton donationsButton">Donations</a>
             </div>
             <button class="magnifyingClass"></button>
         </div>
@@ -33,6 +34,7 @@
         
         <!-- Image Slider -->
         <div class="imageSlider">
+
             <div class="imageSlideStyle imageSlideFade">
                 <img src="../Dev/Images/Mulu and Etaferaw.JPG" class="imageSliderImage">
                 <div class="imageSliderTextBox"><p class="imageSliderText">asdgvhkjladghddddddddddddasdasdasdasddashjsdkfhks</p></div>
@@ -57,6 +59,9 @@
 
         <!-- Green Box -->
         <div class="greenInfoBox">
+            <div class="learnMoreButtonHolder">
+                <a class="learnMoreButton">Learn More</a>
+            </div>
             <p class="greenInfoText">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <b>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b>
             </p>
@@ -64,38 +69,19 @@
 
         <!-- Bottom Bar -->
         <div class="footerBar">
-
+            <div class="footerBar2">
+                <div class="whiteBar" style="top:0;"></div>
+                <!-- Lisää tänne -->
+                <div class="whiteBar" style="top:97%;"></div>
+            </div>
+            <div class="contactBar">
+                <p class="contactInfoText" style="text-align: left;">Contact us!</p>
+                <a href="https://google.fi" class="contactInfoText" style="text-align: right; left: 50%">mulufikircharity1212@​gmail.com</a>
+            </div>
         </div>
         
         <!-- Scripting -->
-        <script>
-            let slideIndex = 1;
-            showSlides(slideIndex);
-            
-            function nextSlide(n) {
-                showSlides(slideIndex += n);
-            }
-            
-            function switchImageSlider(n) {
-                showSlides(slideIndex = n);
-            }
-            
-            function showSlides(n) {
-                let i;
-                let slides = document.getElementsByClassName("imageSlideStyle");
-                let dots = document.getElementsByClassName("imageSliderDot");
-                if (n > slides.length) {slideIndex = 1}    
-                if (n < 1) {slideIndex = slides.length}
-                for (i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";  
-                }
-                for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
-                }
-                slides[slideIndex-1].style.display = "block";  
-                dots[slideIndex-1].className += " active";
-            }
-        </script>
+        <script src="../Code/js/slider.js"></script>
 
     </body>
 </html>
