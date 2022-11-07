@@ -5,11 +5,11 @@
 
 ### 💼 Jäsenet ja roolit
 
-- Arkkitehti, scrum-Master, pojari: Erika
-- Käyttöliittymäsuunnittelija: Joel
-- Sisällöntuottaja, some brändäys, markkinointi: Yusuf
-- Palvelin, ympäristöt: Roope
-- Koodaaja: Jarco
+- Arkkitehti, scrum-Master, pojari: <b>Erika</b>
+- Käyttöliittymäsuunnittelija: <b>Joel</b>
+- Sisällöntuottaja, some brändäys, markkinointi: <b>Yusuf</b>
+- Palvelin, ympäristöt: <b>Roope</b>
+- Koodaaja: <b>Jarco</b>
 
 --------------------------------------------------------
 
