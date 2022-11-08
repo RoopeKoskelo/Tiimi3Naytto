@@ -83,10 +83,11 @@
 .imageSliderText {
     word-wrap: break-word;
     cursor: pointer;
+    font-weight: 500;
     position: relative;
     text-align: justify;
     color: #F7FFF7;
-    font-size: 40px;
+    font-size: 3rem;
     text-shadow: 0px 5px 2.5px rgb(0, 0, 0);
 }
 

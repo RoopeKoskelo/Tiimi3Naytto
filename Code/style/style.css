@@ -13,6 +13,7 @@
 body {
     background-color: #F7FFF7;
     height: 1000px;
+    min-height: 100vh;
 }
 
 /* ----- Images ----- */
@@ -47,11 +48,11 @@ body {
 
 .logoTopBar {
     background-color: #FE6099;
-    height: 2.5%;
+    height: 25px;
 }
 
 .logoBar {
-    height: 8.5%;
+    height: 100px;
     width: 100%;
     position: relative;
     background-color: #FFFFFF;
@@ -117,19 +118,24 @@ body {
 
 .greenInfoBox {
     width: 100%;
-    height: 25%;
+    height: 350px;
     display: block;
     position: relative;
+    border: 1 solid transparent;
     background-color:#19C89C;
+    box-sizing: border-box;
 }
 
 .greenInfoText {
-    position: relative;
-    text-align: justify;
-    width: 80%;
-    height: 80%;
+    position: absolute;
+    text-align: justify; /* Vaihda */
+    box-sizing: border-box; /* Vaihda */
+    display: flex; /* Vaihda */
+    font-weight: 500;
+    width: 60%;
+    height: 50%;
     color:rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 2rem; /* Vaihda */
 }
 
 .learnMoreButtonHolder {
@@ -155,6 +161,7 @@ body {
     height: 150px;
     display: block;
     position: relative;
+    top: 100%;
     background-color:#FE6099;
 }
 
