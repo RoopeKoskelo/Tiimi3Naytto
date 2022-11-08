@@ -3,6 +3,7 @@
 
 --------------------------------------------------------
 
+<<<<<<< HEAD
 ### 💼 Jäsenet ja roolit
 
 - Arkkitehti, scrum-Master, pojari: <b>Erika</b>
@@ -70,3 +71,8 @@
 ### Esimerkki sivustot
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Home.png?raw=true" width="500" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Mulu's%20story.png?raw=true" width="500" height="relative">
+=======
+### Koodaus Branch
+
+--------------------------------------------------------
+>>>>>>> 05eaffba02d709f62cdd01da59c98edda1e72fb2
