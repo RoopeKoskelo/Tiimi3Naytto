@@ -21,6 +21,15 @@ body {
     /* background-color: #F7FFF7; */
 }
 
+.facebookLogo {
+    margin: 5px;
+    padding: 5px;
+    width: 10px;
+    height: 10px;
+    display: inline;
+    position: relative;
+}
+
 /* ----- Text ------ */
 
 .sloganTop {
@@ -60,8 +69,8 @@ body {
     vertical-align: middle;
     cursor: pointer;
     position: absolute;
+    transform: translate(-50%, 0);
     width: 100%;
-    max-height: 200%;
     top: -30%;
 }
 
