@@ -43,7 +43,7 @@
 --------------------------------------------------------
 
 ### ❔ Kysymykset asiakkaalle
-- Löytyykö lisenssi logo fontille kaupalliseen käyttöön? Jos ei löydy niin ehdotuksena voidaan vaihtaa logon tekstiä ja pitää sydän samana.
+- 
 
 --------------------------------------------------------
 
@@ -52,6 +52,17 @@
 - Palvelin suosituksemme on Hostinger hinnanperusteella ([palvelin hintavertailu](https://github.com/RoopeKoskelo/Tiimi3Naytto/raw/main/Dev/Hostivaihtoehdot.xlsx))
 - Hostingerin premiumi sopimukseen kuuluu ilmainen verkko-osoite, 100 Gt muistitilaa, ilmainen SSL ja tietokanta
 - Ylivertaisesti paras hinta/laatu suhde muihin verrattuna esim. enemmän toimintoja pienemällä kuukausierällä (Hostinger Premium 2.99€-6.99€/kk, muut >10€/kk)
+
+--------------------------------------------------------
+
+### Wordpress ilmainen lisenssi
+- Hostaaminen Wordpressillä domain nimi pakotettu sivunimi.wordpress.com (pelkästään mulufikir.org ei ole mahdollista ilmaiseksi)
+- Wordpress voi lisätä mainoksia miten haluaa sivustolle
+- Sivustoa ei voi varmuuskopioida
+- Raijoitettu määrä teemoja ja plug-ineja
+- Ei voi muokata sivustoa custom CSS:ällä
+- Wordpress brändäys ei voi poistaa
+- Wordpress omistaa sivut
 
 --------------------------------------------------------
 
