@@ -28,6 +28,8 @@
 - Nav bar drop downilla: Our Story > [Mulu's Story, Faces behind stories, How it all started] About us > [ Day care Centre, Contacts] Donations
 - Flyer A4, mihin tulee: ytheystiedot + verkko-osoite, esittely Mulufikirista, logot + slogan
 - Vector logo.
+- Kaikki teksti mustalla
+-Uusi Etopian lippu ylänurkkaan
 
 --------------------------------------------------------
 
