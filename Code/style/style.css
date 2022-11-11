@@ -220,6 +220,19 @@ body {
     white-space: normal;
 }
 
+.infoBoxImage {
+    width: 100%;
+    position: relative;
+}
+
+.infoBoxFiller {
+    width: 100%;
+    position: absolute;
+    background-color:#F7FFF7;
+    height: 50%;
+    top: 50%;
+}
+
 .whiteBar {
     background-color: rgb(255, 255, 255);
     height: 2px;
