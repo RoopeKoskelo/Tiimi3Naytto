@@ -78,8 +78,8 @@
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Graafinenohjelma.png" width="35%" height="35%">
 
 ### Muokattu logo
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="relative">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Teksti.png?raw=true" width="200" height="relative">
+
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/mulufikir_log0_cmyk.svg?raw=true" width="200" height="relative">
 
 ### Esimerkki sivustot
 
