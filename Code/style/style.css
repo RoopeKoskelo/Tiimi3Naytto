@@ -203,11 +203,11 @@ body {
 }
 
 .infoBox {
-    width: 30%;
-    height: 20%;
+    width: 20%;
+    height: 45%;
+    background-color: #F7FFF7;
     position: absolute;
 }
-
 
 .infoBoxText {
     position: absolute;
@@ -215,7 +215,7 @@ body {
     font-weight: 500;
     width: 60%;
     vertical-align: center;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     font-size: 2.3vh;
     white-space: normal;
 }
