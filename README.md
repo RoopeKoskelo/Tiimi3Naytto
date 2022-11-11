@@ -28,6 +28,9 @@
 - Sivun palkkeja mm. "Mulu's story", "Faces behind stories", "How it all started (Kore-Sisters tarinaa)", Contacts, Day care Centre, Donations jne.
 - Nav bar drop downilla: Our Story > [Mulu's Story, Faces behind stories, How it all started] About us > [ Day care Centre, Contacts] Donations
 - Flyer A4, mihin tulee: ytheystiedot + verkko-osoite, esittely Mulufikirista, logot + slogan
+- Vector logo.
+- Kaikki teksti mustalla
+-Uusi Etopian lippu ylänurkkaan
 
 --------------------------------------------------------
 
@@ -41,7 +44,7 @@
 --------------------------------------------------------
 
 ### ❔ Kysymykset asiakkaalle
-- Löytyykö lisenssi logo fontille kaupalliseen käyttöön? Jos ei löydy niin ehdotuksena voidaan vaihtaa logon tekstiä ja pitää sydän samana.
+- 
 
 --------------------------------------------------------
 
@@ -50,6 +53,17 @@
 - Palvelin suosituksemme on Hostinger hinnanperusteella ([palvelin hintavertailu](https://github.com/RoopeKoskelo/Tiimi3Naytto/raw/main/Dev/Hostivaihtoehdot.xlsx))
 - Hostingerin premiumi sopimukseen kuuluu ilmainen verkko-osoite, 100 Gt muistitilaa, ilmainen SSL ja tietokanta
 - Ylivertaisesti paras hinta/laatu suhde muihin verrattuna esim. enemmän toimintoja pienemällä kuukausierällä (Hostinger Premium 2.99€-6.99€/kk, muut >10€/kk)
+
+--------------------------------------------------------
+
+### Wordpress ilmainen lisenssi
+- Hostaaminen Wordpressillä domain nimi pakotettu sivunimi.wordpress.com (pelkästään mulufikir.org ei ole mahdollista ilmaiseksi)
+- Wordpress voi lisätä mainoksia miten haluaa sivustolle
+- Sivustoa ei voi varmuuskopioida
+- Raijoitettu määrä teemoja ja plug-ineja
+- Ei voi muokata sivustoa custom CSS:ällä
+- Wordpress brändäys ei voi poistaa
+- Wordpress omistaa sivut
 
 --------------------------------------------------------
 
@@ -65,10 +79,11 @@
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Graafinenohjelma.png" width="35%" height="35%">
 
 ### Muokattu logo
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Kuva_4.png?raw=true" width="200" height="relative">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Logo_Teksti.png?raw=true" width="200" height="relative">
+
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/mulufikir_log0_cmyk.svg?raw=true" width="200" height="relative">
 
 ### Esimerkki sivustot
+<<<<<<< HEAD
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Home.png?raw=true" width="500" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Mulu's%20story.png?raw=true" width="500" height="relative">
 =======
@@ -76,3 +91,9 @@
 
 --------------------------------------------------------
 >>>>>>> 05eaffba02d709f62cdd01da59c98edda1e72fb2
+=======
+
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rautaa1.png?raw=true" width="400" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rauta.png?raw=true" width="400" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/gallery.png?raw=true" width="400" height="relative">
+>>>>>>> origin/main
