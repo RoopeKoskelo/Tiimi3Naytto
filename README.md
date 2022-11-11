@@ -84,5 +84,5 @@
 ### Esimerkki sivustot
 
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rautaa1.png?raw=true" width="400" height="relative">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rautaa3.png?raw=true" width="400" height="relative">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/footer.png?raw=true" width="400" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rauta.png?raw=true" width="400" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/gallery.png?raw=true" width="400" height="relative">
