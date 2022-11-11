@@ -128,14 +128,13 @@ body {
 
 .greenInfoText {
     position: absolute;
-    text-align: justify; /* Vaihda */
-    box-sizing: border-box; /* Vaihda */
-    display: flex; /* Vaihda */
+    display: table-cell;
     font-weight: 500;
     width: 60%;
-    height: 50%;
+    vertical-align: center;
     color:rgb(255, 255, 255);
-    font-size: 2rem; /* Vaihda */
+    font-size: 2.3vh;
+    white-space: normal;
 }
 
 .learnMoreButtonHolder {
@@ -194,6 +193,31 @@ body {
 .logoBottomBar {
     background-color: #FE6099;
     height: 2px;
+}
+
+.infoBoxes {
+    margin-top: 2.5%;
+    margin-left: 2.5%;
+    width: 90%;
+    height: 40%;
+}
+
+.infoBox {
+    width: 30%;
+    height: 20%;
+    position: absolute;
+}
+
+
+.infoBoxText {
+    position: absolute;
+    display: table-cell;
+    font-weight: 500;
+    width: 60%;
+    vertical-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 2.3vh;
+    white-space: normal;
 }
 
 .whiteBar {
