@@ -12,7 +12,7 @@
 
 body {
     background-color: #F7FFF7;
-    height: 1000px;
+    height: 800px;
     min-height: 100vh;
 }
 
@@ -73,7 +73,6 @@ body {
     color: #FE6099;
     background: none;
     text-align: center;
-    font-size: 250%;
     padding: 0 5%;
     width: 33%;
     height: 65%;
@@ -85,9 +84,23 @@ body {
     position: relative;
     color: #FFFFFF;
     background-color: #19C89C;
+    font-size: 250%;
     margin-left: 3.5%;
     width: 80%;
     top: -5%;
+}
+
+.facesButton {
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    color: #FFFFFF;
+    background-color: #19C89C;
+    font-size: 125%;
+    padding: 0 2.5%;
+    margin-left: 15%;
+    width: 80%;
+    top: 87%;
 }
 
 .magnifyingClass {
@@ -156,7 +169,7 @@ body {
     width: 70%;
     vertical-align: center;
     color:rgb(0, 0, 0);
-    font-size: 2.3vh;
+    font-size: 1.2em;
     white-space: normal;
 }
 
