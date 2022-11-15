@@ -25,6 +25,15 @@
     transform: translate(-50%, -50%);
 }
 
+.anchorBR {
+    position: absolute;
+    align-items: center;
+    justify-content:center;
+    left: 90%;
+    top: 90%;
+    transform: translate(-90%, -90%);
+}
+
 .smallPadding {
     margin: 5px;
     padding: 5px;
