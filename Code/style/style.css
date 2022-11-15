@@ -197,7 +197,6 @@ body {
 
 .storyHeaderText{
     word-wrap: break-word;
-    cursor: pointer;
     font-weight: 500;
     color: #F7FFF7;
     font-size: 3rem;
@@ -206,6 +205,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-color: #FE6099;
+    padding: 5px 15px;
 }
 
 .learnMoreButtonHolder {
