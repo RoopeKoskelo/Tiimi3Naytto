@@ -76,7 +76,7 @@
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
 
 ### Graafinen malli
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Graafinenohjelma.png" width="35%" height="35%">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/Graafinenohjelmax.png" width="35%" height="35%">
 
 ### Muokattu logo
 
