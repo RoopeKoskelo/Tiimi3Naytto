@@ -181,6 +181,8 @@
 .storyHeaderImage{
     width: 100%;
     margin: auto;
+    top: -50%;
+    margin-top: -300px;
 }
 
 .storyHeaderFrame{
@@ -220,7 +222,7 @@
 
 .footerBar {
     width: 100%;
-    height: 150px;
+    height: 100%;
     display: block;
     position: relative;
     top: -12.5%;
