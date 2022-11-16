@@ -43,7 +43,8 @@
 --------------------------------------------------------
 
 ### ❔ Kysymykset asiakkaalle
-- 
+
+- Meidän mielestä valkoinen teksti joihinkin kohtiin olisi parempi näön ja lukuhelppouksen takia.
 
 --------------------------------------------------------
 
