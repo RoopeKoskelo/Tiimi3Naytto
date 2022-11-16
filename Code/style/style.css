@@ -13,8 +13,8 @@
 /* ----- Images ----- */
 
 .logoImage {
-    width: 70px;
-    height: 65px;
+    width: 140px;
+    margin-top: -15px;
     /* background-color: #F7FFF7; */
 }
 
@@ -181,6 +181,8 @@
 .storyHeaderImage{
     width: 100%;
     margin: auto;
+    top: -50%;
+    margin-top: -300px;
 }
 
 .storyHeaderFrame{
@@ -292,7 +294,7 @@
     height: 50%;
     width: 80%;
     vertical-align: center;
-    color:rgb(0,0,0);
+    color:rgb(0, 0, 0);
 }
 
 .infoBoxImage {
