@@ -19,9 +19,9 @@
 }
 
 .facebookLogo {
-    top: 87.5%;
-    width: 25px;
-    height: 25px;
+    top: 86%;
+    width: 20px;
+    height: 20px;
     display: inline;
     position: absolute;
 }
@@ -244,6 +244,12 @@
     bottom: 0px;
 }
 
+.contactBarClickable {
+    color:rgb(0, 0, 0);
+    font-size: 1.1em;
+    position: absolute;
+}
+
 .contactInfoText {
     top: 25.5px;
     left: 10px;
@@ -286,7 +292,7 @@
     height: 50%;
     width: 80%;
     vertical-align: center;
-    color:rgb(255,255,255);
+    color:rgb(0,0,0);
 }
 
 .infoBoxImage {
