@@ -84,8 +84,6 @@
 
 ### Esimerkki sivustot
 
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Home.png?raw=true" width="500" height="relative">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Mulu's%20story.png?raw=true" width="500" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rautaa1.png?raw=true" width="400" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rauta.png?raw=true" width="400" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/gallery.png?raw=true" width="400" height="relative">
