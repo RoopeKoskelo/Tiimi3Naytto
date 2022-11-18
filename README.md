@@ -9,6 +9,10 @@
 - "develop" = Koodi puoli. Kaikki koodi siellä.
 - "dev_?" = Kaikki "dev_" branchit ovat feature branchejä.
 
+### Rakenne
+
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/GitHubRakenne.png?raw=true" height="relative">
+
 --------------------------------------------------------
 
 ### 💼 Jäsenet ja roolit
