@@ -56,17 +56,6 @@
 
 --------------------------------------------------------
 
-### Wordpress ilmainen lisenssi
-- Hostaaminen Wordpressillä domain nimi pakotettu sivunimi.wordpress.com (pelkästään mulufikir.org ei ole mahdollista ilmaiseksi)
-- Wordpress voi lisätä mainoksia miten haluaa sivustolle
-- Sivustoa ei voi varmuuskopioida
-- Raijoitettu määrä teemoja ja plug-ineja
-- Ei voi muokata sivustoa custom CSS:ällä
-- Wordpress brändäys ei voi poistaa
-- Wordpress omistaa sivut
-
---------------------------------------------------------
-
 ### 💻 Sivuston workflow
 
 - <b>"main"</b> = Pelkkä visuaalinen puoli. Readme ja kuvat.
