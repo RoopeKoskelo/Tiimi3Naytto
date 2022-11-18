@@ -73,7 +73,7 @@
 -----------------------------------------------------------------
 
 ### Flyer
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Flyer.jpg?raw=true" width="400" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/flayer.png?raw=true" width="400" height="relative">
 
 ### Väri malli
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/palette.png?raw=true" width="200" height="200">
