@@ -3,16 +3,6 @@
 
 --------------------------------------------------------
 
-### 💻 Sivuston workflow
-
-- <b>"main"</b> = Pelkkä visuaalinen puoli. Readme ja kuvat.
-- <b>"develop"</b> = Koodi puoli. Kaikki koodi siellä.
-- <b>"dev_?"</b> = Kaikki "dev_" branchit ovat feature branchejä.
-
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/GitHubRakenne.png?raw=true" width="500px" height="relative">
-
---------------------------------------------------------
-
 ### 💼 Jäsenet ja roolit
 
 - Arkkitehti, scrum-Master, pojari: <b>Erika</b>
@@ -74,6 +64,16 @@
 - Ei voi muokata sivustoa custom CSS:ällä
 - Wordpress brändäys ei voi poistaa
 - Wordpress omistaa sivut
+
+--------------------------------------------------------
+
+### 💻 Sivuston workflow
+
+- <b>"main"</b> = Pelkkä visuaalinen puoli. Readme ja kuvat.
+- <b>"develop"</b> = Koodi puoli. Kaikki koodi siellä.
+- <b>"dev_?"</b> = Kaikki "dev_" branchit ovat feature branchejä.
+
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/GitHubRakenne.png?raw=true" width="500px" height="relative">
 
 --------------------------------------------------------
 
