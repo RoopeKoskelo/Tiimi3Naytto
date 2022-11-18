@@ -5,9 +5,9 @@
 
 ### 💻 Sivuston workflow
 
-- "main" = Pelkkä visuaalinen puoli. Readme ja kuvat.
-- "develop" = Koodi puoli. Kaikki koodi siellä.
-- "dev_?" = Kaikki "dev_" branchit ovat feature branchejä.
+- <b>"main"</b> = Pelkkä visuaalinen puoli. Readme ja kuvat.
+- <b>"develop"</b> = Koodi puoli. Kaikki koodi siellä.
+- <b>"dev_?"</b> = Kaikki "dev_" branchit ovat feature branchejä.
 
 ### Rakenne
 
