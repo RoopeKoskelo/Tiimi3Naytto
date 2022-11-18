@@ -3,6 +3,14 @@
 
 --------------------------------------------------------
 
+### 💻 Sivuston workflow
+
+- "main" = Pelkkä visuaalinen puoli. Readme ja kuvat.
+- "develop" = Koodi puoli. Kaikki koodi siellä.
+- "dev_?" = Kaikki "dev_" branchit ovat feature branchejä.
+
+--------------------------------------------------------
+
 ### 💼 Jäsenet ja roolit
 
 - Arkkitehti, scrum-Master, pojari: <b>Erika</b>
