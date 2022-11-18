@@ -3,6 +3,7 @@
 
 --------------------------------------------------------
 
+<<<<<<< HEAD
 ### 💼 Jäsenet ja roolit
 
 - Arkkitehti, scrum-Master, pojari: <b>Erika</b>
@@ -83,8 +84,17 @@
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/mulufikir_log0_cmyk.svg?raw=true" width="200" height="relative">
 
 ### Esimerkki sivustot
+<<<<<<< HEAD
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Home.png?raw=true" width="500" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/develop/Dev/desktop%20-%20Mulu's%20story.png?raw=true" width="500" height="relative">
+=======
+### Koodaus Branch
+
+--------------------------------------------------------
+>>>>>>> 05eaffba02d709f62cdd01da59c98edda1e72fb2
+=======
 
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rautaa1.png?raw=true" width="400" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rauta.png?raw=true" width="400" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/gallery.png?raw=true" width="400" height="relative">
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/boxit.png?raw=true" width="400" height="relative">
+>>>>>>> origin/main

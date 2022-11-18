@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <link rel="stylesheet" href="style/style.css">
+        <link rel="stylesheet" href="style/sliderStyle.css">
+        <link rel="icon" type="image/x-icon" href="../Dev/Images/Logo_Kuva_2.png">
+        <title>Mulufikir</title>
+        <style>
+            body {
+                background-color: #F7FFF7;
+                height: 0px;
+            }
+        </style>
+    </head>
+    
+    <!-- -- -->
+
+    <body class="bodyBackground">
+        
+        <div class="logoTopBar">
+            <div style="display: inline-box;">
+                <img src="../Dev/Images/800px-Flag_of_the_United_States.svg.png" class="flag" style="left: 93%;"></div>
+                <img src="../Dev/Images/1280px-Flag_of_Ethiopia_(Blank).svg.png" class="flag" style="left: 96%;"></div>
+            </div>
+        </div>
+
+        <!-- -- -- -- -- -- -- -- // Top Bar // -- -- -- -- -- -- -- -->
+
+        <iframe src="../Code/html/header.html" style="width: 100%; height: 102px; display: block;" scrolling="no"></iframe>
+        
+        <!-- -- -- -- -- -- -- -- // Image Slider // -- -- -- -- -- -- -- -->
+
+        <div class="imageSlider">
+
+            <div class="imageSlideStyle imageSlideFade">
+                <img src="../Dev/Images/Mulu and Etaferaw.JPG" class="imageSliderImage centerY">
+                <div class="imageSliderTextBox"><p class="imageSliderText">Mulufikir <br> Daycare Centre</p></div>
+            </div>
+            <div class="imageSlideStyle imageSlideFade">
+                <img src="../Dev/Images/Logo_Kuva_2.png" class="imageSliderImage centerY">
+                <div class="imageSliderTextBox"><p class="imageSliderText">Testi2</p></div>
+            </div>
+            <div class="imageSlideStyle imageSlideFade">
+                <img src="../Dev/Images/Logo_Kuva_3.png" class="imageSliderImage centerY">
+                <div class="imageSliderTextBox"><p class="imageSliderText">Testi3</p></div>
+            </div>
+
+            <div class="imageSliderDots">
+                <span class="imageSliderDot" onclick="switchImageSlider(1)"></span> 
+                <span class="imageSliderDot" onclick="switchImageSlider(2)"></span> 
+                <span class="imageSliderDot" onclick="switchImageSlider(3)"></span> 
+              </div>
+            <a class="prevArrow" onclick="nextSlide(-1)">⇦</a>
+            <a class="nextArrow" onclick="nextSlide(1)">⇨</a>
+        </div>
+
+        <!-- -- -- -- -- -- -- -- // Green Info Box // -- -- -- -- -- -- -- -->
+
+        <div class="greenInfoBox dropBoxShadow">
+            <div class="learnMoreButtonHolder borderRadius dropBoxShadow anchorBR">
+                <a class="learnMoreButton anchorXY">Learn More</a>
+            </div>
+            <p class="greenInfoText anchorXY">
+                Mulufikir Organization was founded by Mrs Mulu Chekol with her special vision to help the most vulnerable, hopeless, poor and broken-hearted people based on loving and caring for them.
+                <br><br>
+                We believe that love can change lives and we have seen it very clearly during these years and that is our drive and motivation every morning to continue the work. Christian Mulufikir Organization wants to take the responsibility to do what can be done to share and solve young mothers ́ and their babies ́ problems, to ease the daily-life by educating, feeding, clothing, counseling and taking care of them. Our focus is on daycare for the poor children aged from little babies up to four years old ones.
+            </p>
+        </div>
+
+        <!-- -- -- -- -- -- -- -- // Info Boxes // -- -- -- -- -- -- -- -->
+
+        <div class="infoBoxes">
+            
+            <div class="infoBox dropBoxShadow" style="display: inline-block; left: 12.5%;">
+                <img src="../Dev/Images/2018 Last day of Day Care centre. Mothers and children with new school bags and lunch boxes.jpg" alt="-" class="infoBoxImage">
+                <div class="infoBoxFiller dropBoxShadow">
+                    <div style="margin-left: 5%; margin-top: 5%;">
+                        <div class="learnMoreButtonHolder borderRadius dropBoxShadow anchorBR" style="background-color: #19C89C;">
+                            <a class="learnMoreButton anchorXY">Contact Us!</a> <!-- href="../Code/Contact.html" -->
+                        </div>
+                        <p style="font-size: 2em; margin-left: 2.5%; font-weight: 700;"><b>Are you interested in working with us?
+                        </b></p><br>
+                        <p class="infoBoxText" style="font-size: 1.5em; margin-left: 2.5%">Your are more than welcome to do your training for studies or be a volunteer at our Day Care Centre!</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="infoBox dropBoxShadow" style="display: inline-block; left: 53%;">
+                <img src="../Dev/Images/Lomi.jpg" alt="-" class="infoBoxImage">
+                <div class="infoBoxFiller dropBoxShadow">
+                    <div style="margin-left: 5%; margin-top: 5%;">
+                        <div class="learnMoreButtonHolder borderRadius dropBoxShadow anchorBR" style="background-color: #19C89C;">
+                            <a class="learnMoreButton anchorXY">Learn More</a> <!-- href="../Code/KoreSisters.html" -->
+                        </div>
+                        <p style="font-size: 2em; margin-left: 2.5%; font-weight: 700;"><b>Kore - Sisters</b></p><br>
+                        <p class="infoBoxText" style="font-size: 1.5em; margin-left: 2.5%">I would like to tell about the work with ’Kore-Sisters’ in Addis Abeba, the capital of Ethiopia. This is the background and a foundation for my later work at the Mulufikir-day nursery that I started from zero some years ago.</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- -- -- -- -- -- -- -- // Bottom Green Box // -- -- -- -- -- -- -- -->
+
+        <div class="bigInfoBox dropBoxShadow" style="display: block; margin-top: 400px;">
+            <img src="../Dev/Images/Mulu.jpg" alt="-" class="infoBoxImage2" style="max-width:50%;">
+            <div class="infoBoxFiller2">
+                <div class="learnMoreButtonHolder borderRadius dropBoxShadow anchorBR" style="left: 85%; top:100%; background-color: #FE6099; color: #FFFFFF">
+                    <a href="../Code/Story.html" class="learnMoreButton anchorXY">Learn More</a>
+                </div>
+                <div style="margin-left: 5%; margin-top: 1%;">
+                    <p style="color:#FFFFFF; font-size: 2em; margin-left: 2.5%; font-weight: bold;"><b>Mulufikir Story</b></p>
+                    <p class="infoBoxText" style="color:#FFFFFF; font-weight: 300; font-size: 1.5em; margin-left: 2.5%">My name is Mulu Chekol from Addis Abeba, Ethiopia. I was born in 1955 with many siblings. I am Ethiopian and I have 5 own biological children. They all are adults now. I have been called ’mother’ by many other children too that I have had a chance to meet and get to know. ...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- -- -- -- -- -- -- -- // Footer Box // -- -- -- -- -- -- -- -->
+
+        <iframe src="../Code/html/footer.html" style="height: 150px; display: block; margin-top: 25px; width: 100%;" scrolling="no"></iframe>
+        
+        <!-- -- -- -- -- -- -- -- // Scripting // -- -- -- -- -- -- -- -->
+
+        <script src="../Code/js/slider.js"></script>
+
+    </body>
+</html>
