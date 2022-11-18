@@ -90,9 +90,10 @@
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rautaa1.png?raw=true" width="400" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/rauta.png?raw=true" width="400" height="relative">
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Dev/Images/gallery.png?raw=true" width="400" height="relative">
->>>>>>> origin/main
 
 https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
------------------------------------------------------------------
+
+--------------------------------------------------------
+
 ### Flyer
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/flyer.jpg?raw=true" width="200" height="200">
