@@ -11,7 +11,7 @@
 
 ### Rakenne
 
-<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/GitHubRakenne.png?raw=true" height="relative">
+<img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/GitHubRakenne.png?raw=true" width="500px" height="relative">
 
 --------------------------------------------------------
 
