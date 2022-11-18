@@ -67,12 +67,12 @@
 --------------------------------------------------------
 
 ### ⚡ Lähteet
+
+- Graafinen ohjeisto ja rautalankamalli: [Figma](https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817)
+- Värit: #292f36, #f7fff7, #fe6099, #19c89c
 -----------------------------------------------------------------
 ### Flyer
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/Flyer.jpg?raw=true" width="200" height="relative">
-------------------------------------------------------------------
-- Graafinen ohjeisto ja rautalankamalli: [Figma](https://www.figma.com/files/project/71730683/Team-project?fuid=1149233409896141817)
-- Värit: #292f36, #f7fff7, #fe6099, #19c89c
 
 --------------------------------------------------------
 
