@@ -67,6 +67,7 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 - <b>"main"</b> = Pelkkä visuaalinen puoli. Readme ja kuvat.
 - <b>"develop"</b> = Koodi puoli. Kaikki koodi siellä.
 - <b>"dev_?"</b> = Kaikki "dev_" branchit ovat feature branchejä.
+- <b>"release"</b> = Github pages testisivun branch.
 
 <img src="https://github.com/RoopeKoskelo/Tiimi3Naytto/blob/main/GitHubRakenne.png?raw=true" width="500px" height="relative">
 
