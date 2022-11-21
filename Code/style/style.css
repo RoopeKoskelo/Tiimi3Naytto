@@ -169,13 +169,19 @@
     white-space: normal;
 }
 
+.storyImageFrame {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
 .storyImage{
     width: 80%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top: -35%;
+    overflow: hidden;
 }
 
 .storyHeaderImage{
@@ -202,7 +208,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #FE6099;
-    padding: 5px 15px;
+    padding: 5px 15px;;
 }
 
 .donateTitle {
