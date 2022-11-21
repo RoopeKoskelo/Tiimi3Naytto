@@ -6,7 +6,6 @@
 --------------------------------------------------------
 
 Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
-(????github pages käyttäytyy vähä oudosti????)
 
 --------------------------------------------------------
 
