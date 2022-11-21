@@ -205,6 +205,33 @@
     padding: 5px 15px;
 }
 
+.donateTitle {
+    width: 50%;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border: 1 solid transparent;
+    background-color: #FE6099;
+    font-size: 250%;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+
+.donateImageFrame {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
+.donateImage {
+    width: 100%;
+    margin: auto;
+    margin-top: -150px;
+}
+
 .learnMoreButtonHolder {
     position: absolute;
     background-color: #FE6099;
