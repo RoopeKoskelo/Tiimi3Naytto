@@ -53,6 +53,8 @@ https://wordpress.org/plugins/smart-slider-3/
     
 - Buttons  
 https://wordpress.org/plugins/button/#description
+- Paypal  
+https://wordpress.org/plugins/easy-paypal-donation/  
 --------------------------------------------------------
 
 ### ❔ Kysymykset asiakkaalle
