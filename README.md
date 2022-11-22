@@ -51,7 +51,7 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 - Smart Slider 3  
 https://wordpress.org/plugins/smart-slider-3/  
     
--Buttons  
+- Buttons  
 https://wordpress.org/plugins/button/#description
 --------------------------------------------------------
 
