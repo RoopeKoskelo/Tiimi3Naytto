@@ -47,6 +47,13 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 - Khand fontti sisältö tekstinä (tyylikäs ja helppo luettava)
 
 --------------------------------------------------------
+### 🧷WordPress Pluginit
+- Smart Slider 3  
+https://wordpress.org/plugins/smart-slider-3/  
+    
+-Buttons  
+https://wordpress.org/plugins/button/#description
+--------------------------------------------------------
 
 ### ❔ Kysymykset asiakkaalle
 
