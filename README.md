@@ -6,6 +6,7 @@
 --------------------------------------------------------
 
 Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
+SSL Certificate: https://docs.hetzner.com/konsoleh/ssl/certificates/
 
 --------------------------------------------------------
 
