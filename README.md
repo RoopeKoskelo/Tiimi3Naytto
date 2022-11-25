@@ -13,7 +13,7 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 
 Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
 
-- **Jarco ja Roope**: Omien azure sivustojen asentaminen. Salasana/käyttis teams group chatissä. Asentaminen EI onnistunut koko päivänä, kokeiltiin monia eri tapoja saada team 2 sivusto meidän sivustoon mutta mikään ei toiminut. ⚰️⚰️⚰️⚰️
+- **Jarco ja Roope**: Omien azure sivustojen asentaminen. Salasana/käyttis teams group chatissä. Asentaminen **EI** onnistunut koko päivänä, kokeiltiin monia eri tapoja saada team 2 sivusto meidän sivustoon mutta mikään ei toiminut. ⚰️⚰️⚰️⚰️
 - **Joel**: About me sivun sunnittelua figmassa.
 
 --------------------------------------------------------
