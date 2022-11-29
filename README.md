@@ -9,12 +9,15 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 
 --------------------------------------------------------
 
-### 25.11.2022. Perjantain työt
+### 29.11.2022. Päivän työt
 
 Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
 
-- **Jarco ja Roope**: Omien azure sivustojen asentaminen. Salasana/käyttis teams group chatissä. Asentaminen **EI** onnistunut koko päivänä, kokeiltiin monia eri tapoja saada team 2 sivusto meidän sivustoon mutta mikään ei toiminut. ⚰️⚰️⚰️⚰️
-- **Joel**: About me sivun sunnittelua figmassa.
+- **Erika**: Azure tietokannan setuppi.
+- **Jarco**: Auttaa home page sliderissa ja about us sivun teossa.
+- **Yusuf**: Sivun optimisointia.
+- **Roope**: About us sivun tekoa.
+- **Joel**: Home page sliderin tekoa.
 
 --------------------------------------------------------
 
