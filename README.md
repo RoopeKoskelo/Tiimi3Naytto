@@ -15,7 +15,7 @@ Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
 
 - **Erika**: Azure tietokannan setuppi.
 - **Jarco**: Auttaa home page sliderissa ja about us sivun teossa.
-- **Yusuf**: Sivun optimisointia.
+- **Yusuf**: Etsii sivuun sopivia / aiheeseen liittyviä kuvia etusivun headeriin.
 - **Roope**: About us sivun tekoa.
 - **Joel**: Home page sliderin tekoa.
 
