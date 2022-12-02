@@ -16,7 +16,7 @@ Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
 - **Jarco**: Bugi listaa ja katsoo onko asiakkaan toiveet sivussa. (pävitys vanhaan)
 - **Yusuf**: Etsii sivuun sopivia / aiheeseen liittyviä kuvia etusivun headeriin.
 - **Roope**: Bugi listaa ja katsoo onko asiakkaan toiveet sivussa. (pävitys vanhaan)
-- **Joel**: -
+- **Joel**: Tekee sivun ohjeita.
 
 --------------------------------------------------------
 
