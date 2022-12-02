@@ -9,7 +9,7 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 
 --------------------------------------------------------
 
-### 30.11.2022. Päivän työt
+### 02.12.2022. Päivän työt
 
 Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
 
