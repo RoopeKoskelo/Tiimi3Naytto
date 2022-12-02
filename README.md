@@ -13,11 +13,10 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 
 Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
 
-- **Erika**: Azure tietokannan setuppi.
-- **Jarco**: Auttaa home page sliderissa ja about us sivun teossa.
+- **Jarco**: Bugi listaa ja katsoo onko asiakkaan toiveet sivussa. (pävitys vanhaan)
 - **Yusuf**: Etsii sivuun sopivia / aiheeseen liittyviä kuvia etusivun headeriin.
-- **Roope**: About us sivun tekoa.
-- **Joel**: Home page sliderin tekoa.
+- **Roope**: Bugi listaa ja katsoo onko asiakkaan toiveet sivussa. (pävitys vanhaan)
+- **Joel**: -
 
 --------------------------------------------------------
 
