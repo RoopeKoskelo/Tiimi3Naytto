@@ -104,3 +104,11 @@
     from {opacity: 0} 
     to {opacity: 1}
 }
+
+@media only screen and (max-width: 1300px) {
+
+    .imageSliderImage {
+        top:0%;
+    }
+
+}
