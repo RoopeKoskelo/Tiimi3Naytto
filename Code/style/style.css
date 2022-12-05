@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/khand');
+@import url('https://fonts.cdnfonts.com/css/khand');
 @import url('../style/globals.css');
 
 
@@ -170,13 +170,19 @@
     white-space: normal;
 }
 
+.storyImageFrame {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
 .storyImage{
     width: 80%;
     display: block;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top: -35%;
+    overflow: hidden;
 }
 
 .storyHeaderImage{
@@ -203,7 +209,34 @@
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #FE6099;
-    padding: 5px 15px;
+    padding: 5px 15px;;
+}
+
+.donateTitle {
+    width: 50%;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border: 1 solid transparent;
+    background-color: #FE6099;
+    font-size: 250%;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-top: 100px;
+}
+
+.donateImageFrame {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+
+.donateImage {
+    width: 100%;
+    margin: auto;
+    margin-top: -150px;
 }
 
 .learnMoreButtonHolder {
