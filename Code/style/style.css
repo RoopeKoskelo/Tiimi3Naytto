@@ -62,13 +62,14 @@
 }
 
 .navButton {
+    text-decoration: none;
     position: absolute;
     cursor: pointer;
     color: #FE6099;
     background: none;
     text-align: center;
     padding: 0 5%;
-    font-size: 250%;
+    font-size: 2.2em;
     width: 33%;
     height: 65%;
 }
@@ -283,7 +284,7 @@
 
 .bigInfoBox {
     width: 100%;
-    height: 500px;
+    height: 300px;
     background-color: #19C89C;
     position: relative;
 }
@@ -293,6 +294,7 @@
     display: table-cell;
     height: 50%;
     width: 80%;
+    font-size: 1.25em;
     vertical-align: center;
     color:rgb(0, 0, 0);
 }
@@ -334,4 +336,121 @@
     height: 2px;
     display: block;
     position: relative;
+}
+
+.infoBoxLeft {
+    left: 10vw;
+}
+
+.infoBoxRight {
+    right: 10vw;
+}
+
+.contactRow1 {
+    left: 15%;
+}
+
+.contactRow2 {
+    left: 25%;
+}
+
+.contactRow3 {
+    left: 35%;
+}
+
+.contactRow4 {
+    left: 65%;
+}
+
+/* ------------------------------------------------------------------------------------ */
+
+@media only screen and (min-width: 1300px) {
+    .greenInfoText {
+        font-size: 1.35em;
+        width:75%
+    }
+}
+
+@media only screen and (min-width: 1500px) {
+    .greenInfoText {
+        font-size: 1.5em;
+        width:75%
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+
+    .storyInfoText {
+        font-size:1.15em;
+    }
+    
+    .infoBoxLeft {
+        left: 5vw;
+    }
+
+    .infoBoxRight {
+        right: 5vw;
+    }
+
+    .contactRow2 {
+        left: 30%;
+    }
+    
+    .contactRow3 {
+        left: 45%;
+    }
+
+    .contactRow4 {
+        left: 70%;
+    }
+    
+    .navBar {
+        width:60%;
+        margin-left:-10%;
+    }
+
+    .greenInfoText {
+        font-size: 1.25em;
+        width:75%
+    }
+    
+}
+
+@media only screen and (max-width: 1200px) {
+    .storyInfoText {
+        font-size:1.1em;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    
+    .greenInfoText {
+        font-size: 1.15em;
+        width:80%;
+    }
+
+    .infoBoxText {
+        font-size: 1.15em;
+    }
+    
+}
+
+@media only screen and (max-width: 1150px) {
+    
+    .infoBoxLeft {
+        left: 2.5vw;
+    }
+
+    .storyInfoText {
+        font-size:1em;
+    }
+
+    .infoBoxRight {
+        right: 2.5vw;
+    }
+
+    .infoBox {
+        width: 45%;
+    }
+    
 }
