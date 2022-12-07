@@ -9,13 +9,12 @@ Testisivu: https://roopekoskelo.github.io/Tiimi3Naytto/Code/Web.html
 
 --------------------------------------------------------
 
-### 02.12.2022. Päivän työt
+### 07.12.2022. Päivän työt
 
-Ei pystytty tekemään mitään uutta sivuille, koska azure sivusto ei toiminut.
-
-- **Jarco**: Bugi listaa ja katsoo onko asiakkaan toiveet sivussa. (pävitys vanhaan)
-- **Yusuf**: Etsii sivuun sopivia / aiheeseen liittyviä kuvia etusivun headeriin.
-- **Roope**: Bugi listaa ja katsoo onko asiakkaan toiveet sivussa. (pävitys vanhaan)
+- **Jarco**: Auttaa Joelia sivujen ohjeiden kanssa.
+- **Yusuf**: Vaistailee teams kysymyksiin.
+- **Roope**: Tekee ohejita about me sivuun.
+- **Erika**: Sivujen käännöksiä Ahmariksi.
 - **Joel**: Tekee sivun ohjeita.
 
 --------------------------------------------------------
